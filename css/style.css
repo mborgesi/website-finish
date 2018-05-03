@@ -1,0 +1,52 @@
+
+        #nav{
+            margin-left: 600px;
+        }
+
+        ul{
+            font-size: 25px;
+            font-family: helvetica;
+            margin-top: 15px;
+            border-style: solid;
+            margin-top: 15px;
+            margin-bottom: 15px;
+            width: 450px;
+            background-color: white;
+        }
+
+        body{ 
+            background-color: #e5e5e5;
+        }
+
+        li {
+           display: inline;
+           text-align: center;
+        }
+
+        a:link {
+            color: #035dbc;
+            position: relative;
+            left: 0px;
+            margin-right: 14px;
+        }
+
+        a:navigation-link {
+          padding: 10px;
+          word-wrap: normal;
+          display: inline-block;
+        }
+
+        a:visited {
+            color: #035dbc;
+        }
+
+        a:hover {
+            color: #21cff5;
+        }
+
+        #logo{
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        

@@ -1,6 +1,18 @@
 
         #nav{
-            margin-left: 600px;
+            margin-left: 700px;
+            margin-top: 20px;
+        }
+
+        p{
+            font-family: helvetca;
+            font-size: 22px;
+        }
+
+        #contact{
+            margin-top: 60px;
+            font-family: helvetca;
+            font-size: 22px;
         }
 
         ul{
@@ -48,5 +60,3 @@
             text-align: center;
             margin-top: 60px;
         }
-
-        
